@@ -1,0 +1,364 @@
+questions_title,questions_optiona,questions_optionb,questions_optionc,questions_optiond,questions_answer
+"The size of the physical address space of a processor is 2 P bytes. The word length is 2 W bytes. The capacity of cache memory is 2 N bytes, The size of each cache block is 2 M words. For a K-way set-associative cache memory, the length (in number of bits) of the tag field is",P N log K2 ?,N log K,P N M W log K2 ? ? ? ?,P N M W log K,D
+"Consider the following program written in pseudo-code. Assume that x and y are integers: 
+Count (x, y) {
+if (y ! = 1) {
+if (x ! = 1) {
+print(“*”);
+Count (x/2, y);
+}
+else {
+y = y – 1;
+Count (1024, y);
+}
+}
+}
+The number of times that the print statement is executed by the call Count (1024, 1024) is 
+__________.",10230,12345,87453,9845,B
+". Consider the weights and values of items listed below. Note that there is only one unit of each item. www.gradeup.co 19 The task is to pick a subset of these items such that their total weight is not more than 11 kgs and their total value is maximized. Moreover, no item may be split. The total value of items picked by an optimal algorithm is denoted by . Vopt A greedy algorithm sorts the items by their value-to-weight ratios in descending order and packs them greedily, starting from the first item in the ordered list. The total value of items picked by the greedy algorithm is denoted by greedy V , The value of V V opt greedy ? is ________.",12,16,10,30,B
+"Consider a simple communication system where multiple nodes are connected by a shared broadcast medium (like Ethernet or wireless). The nodes in the system use the following carrier-sense based medium access protocol. A node that receives a packet to transmit will carrier-sense the medium for 5 units of time. If the node does not detect any other transmission in this duration, it starts transmitting its packet in the next time unit. If the node detects another transmission, it waits until this other transmission finishes, and then begins to carrier-sense for 5 time units again. Once they start to transmit, nodes do not perform any collision detection and continue transmission even if a collision occurs. All transmissions last for 20 units of time. Assume that the transmission signal travels at the speed of 10 meters per unit time in the medium. Assume that the system has two nodes P and Q, located at a distance d meters from each other. P starts transmitting a packet at time t = 0 after successfully completing its carrier-sense phase. Node Q has a packet to transmit at time t = 0 and begins to carrier-sense the medium. The maximum distance d (in meters, rounded to the closest integer) that allows Q to successfully avoid a collision between its proposed transmission and P’s ongoing transmission is __________.",100,50,60,56,B
+"Let G be a simple undirected graph. Let TD be a depth first search tree of G. Let TB be a breadth first search tree of G. Consider the following statements: I. No edge of G is a cross edge with respect to . TD (A cross edge is G is between two nodes neither of which is an ancestor of the other in TD ). II. For every edge (u, v) of G, if u is at depth i and v is at depth j in , TB then (i j ? =) 1. Which of the statements above must necessarily be true?",I only,II only,Both I and II,Neither I nor II,D
+"Consider the first-order logic sentence s t u v w x y s t u v w x y ( , , , , , , ) where ? (s t u v w x y , , , , , , ) is a quantifier-free-order logic formula using only predicate symbols and possibly equality, but no function symbols. Suppose ? has a model with a universe containing 7 elements. Which one of the following statements is necessarily true",There exists at least one model of ? with universe of size less than or equal to 3.,There exists no model of ? with universe of size less than or equal to 3.,There exists no model of ? with universe of size greater than 7.,Every model of ? has a universe of size equal to 7,B
+"Consider the following C program: #include void fun 1 (char *s1, char *s2) { char *tmp; tmp = s1; s1 = s2; s2 = tmp; } www.gradeup.co 21 Void fun2 (char **s1, char **s2) { char *tmp; tmp = s1; s1 = s2; s2 = tmp; } int main () { char *str1 = “Hi”, *str2 = “Bye”; fun1 (str1, str2); printf(“%s %s”, str1, str2); fun2 (&str1, &str2); printf(“%s %s”, str1, str2); return 0; } The output of the program above i",Hi Bye Bye H,Hi Bye Hi Bye,Bye Hi Hi Bye,Bye Hi Bye Hi,A
+"The number of possible min-heaps containing each value from {1, 2, 3, 4, 5, 6, 7} exactly once is _______.",80,30,50,10,A
+"Let N be the set of natural numbers. Consider the following sets: P. Set of rational numbers (positive and negative). Q. Set of functions from {0, 1} to N. R. Set of functions from N to {0, 1}. S. Set of finite subsets of N. Which of the sets above are countable?",Q and S only,P and S only,P and R onl,"P, Q and S only",D
+Consider the unsigned 8-bit fixed point binary number representation below : 7 6 5 4 3 2 1 0 b b b b b b b b . Where the position of the binary point is between b3 and 2 b . Assume b7 is the most significant bit. Some of the decimal numbers listed below cannot be represented exactly in the above representation:,31.5,0.875,12.1,3,C
+"Given a language L, define i L as follows: ? ? 0 1 . for all 0 i i L L L L i ? = ? = ? The order of a language L is defined as the smallest k such that 1 . k k L L + = Consider the language 1L (over alphabet 0) accepted by the following automaton.",1,2,3,4,C
+"A lexical analyzer uses the following patterns to recognize three tokens 1 2 T T, and T3 over the alphabet {a, b, c}. ( ) ( ) ( ) * 1 * 2 * 3 : ? | : ? | : ? | T a b c a T b a c b T c b a c Note that ‘x?’ means 0 or 1 occurrence of the symbol x. Note also that the analyzer outputs the token that matches the longest possible prefix. If the string bbaacabc is processed by the analyzer, which one of the following is the sequence of tokens it outputs?",T T T 1 2 3,TTT 1 1 3,T T T 2 1 3,TT3 3,D
+"Given below are two statements 1 and 2. and two conclusions I and II.
+Statement 1: All bacteria are microorganisms.
+Statement 2: All pathogens are microorganisms.
+Conclusion I: Some pathogens are bacteria.
+Conclusion II: All pathogens are not bacteria.
+Based oil the above statements and conclusions, which one of the following options is logically
+CORRECT?
+Options
+", Only conclusion I correct, Only conclusion II is collect,Either conclusion I or II is correct., Neither conclusion I nor II is correct,D
+"The Ratio of boys to girls in class 7 to 3, among the options below, An acceptable value for total number of students in class is :",21,73,37,50,D
+"_____ is to surgery as writer is to _____
+Which maintain similar logic relation.
+","Doctor, Book"," Hospital, Library","Medicine, grammar","Plan, outline",A
+"Detail of prices of two item P and Q are presented in the above table. The ratio of cost of item P to cost of item Q is 3 : 4. Discount is calculated as difference between marked and selling price. The profit percentage is calculated as ratio of difference between selling price and cost, to the cost price.
+Profit % = Selling Price ? Cost Price ×100/coast price
+The discount on Q, as a % marked price is ______.
+ 
+  
+",25,12.5,10,25,C
+"We have 2 rectangular sheets of paper, M and N, of Dimension 6 cm×1 cm each. Sheet M is rolled to form an open cylinder by bringing short edges of the sheet together. Sheet and N is cut into equal square patches and assembled to form largest possible closed cube. Assuming the ends of the cylinder are closed, ratio of the volume of the cylinder to that of the cube is _______."," 9 / ?
+", 3?,"?/2
+","(D) 3/?
+",A
+"
+
+
+
+A circular sheet of paper is folded along the lines in the directions shown. The paper, after being punched in the final folded state as shown and unfolded in the reverse order of folding, will look like________.",21,73,37,50,A
+"A polygon is convex if. for every pair of points, P and Q belonging to the polygon, the line segment PQ
+lies completely inside or on the polygon. 
+Which one of the following is NOT a convex polygon?
+",25,12.5,10,25,C
+"Some people suggest Anti Obesity Measures (AOM) such as displaying calorie information in restaurant menus. Such measures sidestep addressing the core problems that cause obesity, poverty and income inequality.Which of the following statements summarize this page",AOM addressing the core problem and are likely to succeed,"The Proposed AOM are addressing the core problem that causes obesity.
+
+", AOM addressing the problem superficially,"If Obesity reduces, poverty will naturally reduce, since obesity causes poverty",C
+"Consider the following sentences:
+(i) Everybody in the class is prepared for the exam.
+(ii) Babu invited Danish to his home because he enjoys playing chess
+Which of the following is the CORRECT observation about the above two sentences?
+", (i) is grammatically incorrect and (ii) is unambiguous,(i) is grammatically correct and (ii) is unambiguous,"(i) is grammatically correct and (ii) is ambiguous
+
+",(i) is grammatically incorrect and (ii) is ambiguous,C
+There are five bags each containing identical sets of ten distinct chocolates. One chocolate is. picked from each bag. The probability that at least two chocolates are identical is___________. Options :,0.8125,0.6976,0.3024,0.4235,B
+"Consider the following sentences: (i)
+Everybody in the class is prepared for the exam.
+(ii)
+Babu invited Danish to his home because he enjoys playing chess.
+Which of the following is the CORRECT observation about the above two
+sentences?
+",(i) is grammatically correct and (ii) is unambiguous,i) is grammatically incorrect and (ii) is unambiguous,(i) is grammatically correct and (ii) is ambiguous,(i) is grammatically incorrect and (ii) is ambiguous,B
+"Let G be a group of order 6, arid H be a subgroup of G such that 1 following options is correct?","Both G and H may not be cyclic.
+
+",Both G and H are always cyclic.,"G is always cyclic, but H may not be cyclic.","G may not be cyclic, but H is always cyclic.
+
+",D
+"There are five bags each containing identical sets of ten distinct chocolates. One
+chocolate is picked from each bag.The probability that at least two chocolates are identical is ___________
+",0.3024,0.4235,0.6976,0.8125,B
+"Given below are two statements 1 and 2, and two conclusions I and II.Statement 1: All bacteria are microorganisms.Statement 2: All pathogens are microorganisms.Conclusion I: Some pathogens are bacteria.Conclusion II: All pathogens are not bacteria.Based on the above statements and conclusions, which one of the following
+options is logically CORRECT?
+",Only conclusion I is correct,Only conclusion II is correct,Either conclusion I or II is correct.,Neither conclusion I nor II is correct.,A
+"Some people suggest anti-obesity measures (AOM) such as displaying calorie information in restaurant menus.Such measures sidestep addressing the core
+problems that cause obesity: poverty and income inequality.Which one of the following statements summarizes the passage?
+",The proposed AOM addresses the core problems that cause obesity.,"If obesity reduces, poverty will naturally reduce, since obesity causes poverty.",AOM are addressing the core problems and are likely to succeed., AOM are addressing the problem superficially,C
+"What is the missing number in the following sequence? 2, 12, 60, 240, 720, 1440, _______, 0",2880,1440,720,0,B
+What would be the smallest natural number which when divided either by 20 or by 42 or by 76 leaves a remainder of 7 in each case?,"Their, they’re there
+","They’re, their, there","VThere, their, they’re
+","There, their, they’re",B
+"What would be the smallest natural number which when divided either by 20 or by 42 or by 
+76 leaves a remainder of 7 in each case?",3047,"6047
+",7987,63847,C
+"“A __________ investigation can sometimes yield new facts, but typically organized ones are 
+more successful.”",meandering,timely,consistent,systemati,A
+The area of a square is d. What is the area of the circle which has the diagonal of the square as its diameter?, ? d,?d2,1/4?d2,1/2?d,D
+"n pqr 0 and 1 1 1 , , , x y z p q r q r p what is the value of the product xyz?",-1,1/pqr,1,pqr,C
+"In appreciation of the social improvements completed in a town, a wealthy philanthropist decided to gift Rs 750 to each male senior citizen in the town and Rs 1000 to each female senior citizen. Altogether, there were 300 senior citizens eligible for this gift. However, only 8/9th of the eligible men and 2/3rd of the eligible women claimed the gift. How much money (in Rupees) did the philanthropist give away in total","1,50,000","2,00,000","1,75,000"," 
+ 1,51,000
+",C
+"In the figure below, 
+? + ? DEC BFC
+is equal to __________.",? ? ? BCD BAD,? + ? BAD BC,? + ? BAD BCD,? + ? CBA ADC,D
+A six sided unbiased die with four green faces and two red faces is rolled seven times. Which of the following combinations is the most likely outcome of the experiment?,Three green faces and four red faces,Four green faces and three red faces.,Five green faces and two red faces.,Six green faces and one red face.,C
+"In a party, 60% of the invited guests are male and 40% are female. If 80% of the invited guests attended the party and if all the invited female guests attended, what would be the ratio of males to females among the attendees in the party?",2.03,1.01,3.02,2.01,B
+,,,,,
+"Consider a long-lived TCP session with an end-to-end bandwidth of 1 Gbps (= 109 bits-per second). The session starts with a sequence number of 1234. The minimum time (in seconds, 
+rounded to the closest integer) before this sequence number can be used again is _________.
+",The proposed AOM addresses the core problems that cause obesity.,"If obesity reduces, poverty will naturally reduce, since obesity causes poverty.",AOM are addressing the core problems and are likely to succeed., AOM are addressing the problem superficially,B
+"consider a process executing on an operating system that uses demand paging. The average 
+time for a memory access in the system is M units if the corresponding memory page is 
+available in memory and D units if the memory access causes a page fault. It has been 
+experimentally measured that the average time taken for a memory access in the process is 
+X units.
+Which one of the following is the correct expression for the page fault. It has been 
+experimentally measured that the average time taken for a memory access in the process is 
+X units.
+Which one of the following is the correct expression for the page fault rate experienced by the 
+process?",(D M / X M ? ? ) ( ),(X M / D M ? ? ) ( ),(D X / D M ? ? ) ( ),"(X M / D X ? ? ) ( )
+",B
+"The postorder traversal of a binary tree is 8, 9, 6, 7, 4, 5, 2, 3, 1. The inorder traversal of the 
+same tree is 8, 6, 9, 4, 7, 2, 5, 1, 3. The height of a tree is the length of longest path from 
+the root to any leaf. The height of the binary tree above is __________.
+",21,37,50,73,C
+Let G be a finite group on 84 elements. The size of a largest possible proper subgroup of G is _________.,0,12,5,6,D
+Match the following : Field Length in bits P. UDP Header’s Port I. 48 Number Q. Ethernet MAC Address II. 8 R. IPv6 Next Header III. 32 S. TCP Header’s Sequence IV. 16 Numbe,"P-III, Q-IV, R-II, S-I","P-II, Q-I, R-IV, S-III","P-IV, Q-I, R-II, S-III","P-IV, Q-I, R-III, S-II",C
+Let N be an NFA with n states. Let k be the number of states of a minimal DFA which is equivalent to N. Which one of the following is necessarily true?,n k,k n,2 k,k ,D
+Consider a system with 3 processes that share 4 instances of the same resource type. Each process can request a maximum of K instances. Resource instances can be requested and released only one at a time. The largest value of K that will always avoid deadlock is ___________.,"Plan, outline","Hospital, library","Doctor, book",hospital,C
+Consider the following processor design characteristics: I. Register-to-register arithmetic operations only. II. Fixed-length instruction format. III. Hardwired control unit. Which of the characteristics above are used in the design of a RISC processor,I and II only,and III only,I and III onl,"I, II and III",D
+The set of all recursively enumerable languages is,closed under complementation,closed under intersection,a subset of the set of all recursive languages,an uncountable se,D
+"Consider a matrix T A uv = where 1 1 , . 2 1 u v Note that T v denotes the transpose of v. The largest eigenvalue of A is ________.",8,4,6,1,C
+"A queue is implemented using a non-circular singly linked list. The queue has a head pointer and tail pointer, as shown in the figure. Let n denote of number of nodes in the queue. Let enqueue be implemented by interesting a new node at the head and dequeue be implemented by deletion of a node from the tail. Which one of the following is the time complexity of the most time-efficient implementation of enqueue and dequeue, respectively, for this data structure?","(1 , 1 ) ( )"," (1 ,) (n)","(n), 1( )"," (n), 1( )",C
+"Consider the following C program : #include int calc (int a, int b) { int c; counter ++; if (b = = 3) return (a*a*a); else { c = calc (a, b/3); return (c*c*c); } } int main () { calc(4, 81); printf(“%d%d”, counter); } The output of this program is ________.",0,1,2,5,C
+Which one of the following statements is FALSE?,Context-free grammar can be used to specify both lexical and syntax rules.,Type checking is done before parsing.,High-level language programs can be translated to different Intermediate Representations.,Arguments to a function can be passed using the program stack.,D
+Consider an IP packet with a length of 4500 bytes that includes a 20-byte IPv4 header and a 40-byte TCP header. The packet is forwarded to an IPv4 router that supports a Maximum Transmission Unit (MTU) of 600 bytes. Assume that the length of the IP header in all the outgoing fragments of this packet is 20 bytes. Assume that the fragmentation offset value stored in the first fragment offset value stored in the first fragment is 0. The fragmentation offset value stored in the third fragment is _________.,123,144,345,678,D
+"Consider the following four relational schemas. For each schema, all non-trivial functional dependencies are listed. The underlined attributes are the respective primary keys. Schema I : Registration (rollno, courses) Field ‘courses’ is a set-valued attribute containing the set of courses a student has registered for. rollno ? courses Schema II : Registration (rollno, courseid, email) Non-trivial functional dependencies: rollno, courseid ? email email ? rollno Schema III : Registration (rollno, courseid, marks, grade) Non-trivial functional dependencies: rollno, courseid ? marks, grade marks ? grade Schema IV : Registration (rollno, courseid, credit) Non-trivial functional dependencies: rollno, courseid ? credit courseid ? credit Which one of the relational schemas above is in 3NF but not in BCNF?",Schema I,Schema III,Schema IV,Schema II,A
+"consider the following problems L(G) denotes the language generated by a grammar G. L(M) denotes the language accepted by a machine M. I. For an unrestricted grammar G and a string w, where w ? L(G). II. Given a Turing Machine M, whether L(M) is regular. III. Given two grammars G1 and G2 whether L G L G . ( 1 2 ) = ( ) IV. Given an NFAN, whether there is a deterministic PDA P such that N and P accept the same language. Which one of the following statements is correct?",Only I and II are undecidable,Only III is undecidable,Only II and IV are undecidable,"Only I, II and III are undecidable",B
+"Consider Guwahati (G) and Delhi (D) whose temperatures can be classified as High (H), medium (M) and low (L). Let P H( G ) denote the probability that Guwahati has High temperature. Similarly, P M( G ) and P L( G ) denotes the probability of Guwahati having medium and low temperatures respectively. Similarly, we use P H ,P M ( D D ) ( ) and P L( D ) for Delhi. The following table gives the conditional probabilities for Delhi’s temperature given Guwahati’s temperature. Consider the first row in the table above. The first entry denotes that if Guwahati has high temperature (HG ) then the probability of Delhi also having a high temperature (HD ) is 0.40; i.e., P H |H 0.40. ( D G ) = Similarly, the next two entries are P M |H 0.48 ( D G ) = and P L |H 0.12. ( D G ) = Similarly for the other rows",0.6,1,0,0.2,D
+"As you grow older, an injury to your ______ may take longer to ______.",AOM addressing the core problem and are likely to succeed," The Proposed AOM are addressing the core problem that causes obesity.
+
+",AOM addressing the problem superficially," If Obesity reduces, poverty will naturally reduce, since obesity causes poverty",C
+"In a 500 m race, P and Q have speeds in the ratio of 3 : 4. Q starts the race when P has already covered 140 m. 
+What is the distance between P and Q (in m) when P wins the race?", (i) is grammatically incorrect and (ii) is unambiguous, (i) is grammatically correct and (ii) is unambiguous," (i) is grammatically correct and (ii) is ambiguous
+
+", (i) is grammatically incorrect and (ii) is ambiguous,C
+"Three bells P, Q and R are rung periodically in a school. P is rung every 20 minutes, Q is rung every 30 minutes and R is rung every 50 minutes. If all the three bells are rung at 12:00 PM, when will the three bells ring together again the next time?",heal/heal,heel/heel, heel/heal, heal/heel,C
+"Given below are two statements and four conclusions drawn based on the statements. 
+Statement 1 : Some bottles are cups. 
+Statement 2 : All cups are knives. 
+Conclusion I : Some bottles are knives. 
+Conclusion II : Some knives are cups. 
+Conclusion III : All cups are bottles. 
+Conclusion IV : All knives are cups. 
+Which one of the following options can be logically inferred? ",20,140,40,60,A
+"The figure below shows the front and rear view of a disc, which is shaded with identical patterns. 
+The disc is flipped once with respect to any one of the fixed axes 1-1, 2-2 or 3-3 chosen uniformly at random. 
+What is the probability that the disc DOES NOT retain the same front and rear views after the flipping operation?",6.30 PM,5.00 PM,6.00 PM,5.30 PM,B
+"Altruism is the human concern for the wellbeing of others. Altruism has been shown to be motivated more by social bonding, familiarity and identification of belongingness to a group. The notion that altruism may be attributed to empathy or guilt has now been rejected. Which one of the following is the CORRECT logical inference based on the information in the above passage?", Only conclusion II and conclusion III are correct,Only conclusion II and conclusion IV are correct,Only conclusion III and conclusion IV are correct, Only conclusion I and conclusion II are correct,D
+"There are two identical dice with a single letter on each of the faces. The following six letters : Q, R, S, T, U and V, one on each of the faces. Any of the six outcomes are equally likely. The two dice are thrown once independently at random. What is the probability that the outcomes on the dice were composed only of any combination of the following possible outcomes : Q, U and V?",1,0, 2 /3, 1 /3,C
+"The price of an item is 10% cheaper in an online store S compared to the price at another online store M. Store S charges `150 for delivery. There are no delivery charges for orders from the store M. A person bought the item from the store S and saved `100.
+ What is the price of the item at the online store S (in `) if there are no other charges than what is described above?",Humans engage in altruism due to guilt but not empathy., Humans engage in altruism due to group identification but not empathy.,Human engage in altruism due to empathy but not guilt.,Human engage in altruism due to empathy but not familiarity.,B
+"The letters P, Q, R, S, T and U are to be placed one per vertex on a regular convex hexagon, but not necessarily in the same order. 
+Consider the following statements : 
+The line segment joining R and S is longer than the line segment joining P and Q. 
+ The line segment joining R and S is perpendicular to the line segment joining P and Q. 
+The line segment joining R and U is parallel to the line segment joining T and Q. 
+Based on the above statements, which one of the following options is CORRECT?",01-Jun,03-Apr,May-36, 1 /4,D
+"An ant is at the bottom-left corner of a grid (point P) as shown above. It aims to move to the top right corner of the grid. 
+The ant moves only along the lines marked in the grid such that the current distance to the top-right corner strictly decreases. Which one of the following is a part of a possible trajectory of the ant during the movement?",1500,2500,1750,2250,D
+"The transfer function of a real system, H s( ) , is given as : 
+H(s)=As+B/s^2+Cs+D
+where A B C , , and D are positive constants. This system cannot operate as", The line segment joining T and Q is parallel to the line joining P and U., The line segment joining Q and S is perpendicular to the line segment joining R and P., The line segment joining R and T is parallel to the line segment joining Q and S.,The line segment joining R and P is perpendicular to the line segment joining U and Q.,C
+"For an ideal MOSFET biased in saturation, the magnitude of the small signal current gain for a common drain amplifier is",,,,,B
+"The most commonly used relay, for the protection of an alternator against loss of excitation, is",band pass filter, low pass filter, an integrator,high pass filter,C or D
+"The geometric mean radius of a conductor, having four equal strands with each strand of radius ‘r’, as shown in the figure below, is", infinite,1,100,0,A
+"The valid positive, negative and zero sequence impedance (in p.u.), resprespectively, for a 220 kV, fully 
+transposed three-phase transmission line, from the given choices are",differential relay, offset Mho relay.,Buchholz relay,over current relay.,B
+"The steady state output ( ) Vout , of the circuit shown below, will",1.723 r,2 r, 4 r, over current relay.,A
+"The Bode magnitude plot of a first order stable system is constant with frequency. 
+The asymptotic value of the high frequency phase, for the system, is 0 -180 . This system has","0.15, 0.15 and 0.35","0.2, 0.2 and 0.2","1.1, 0.15 and 0.08","0.1, 0.3 and 0.1",A
+"A charger supplies 100 W at 20 V for charging the battery of a laptop. The power devices, used in the converter inside the charger, operate at a switching frequency of 200 kHz. Which power device is best suited for this purpose?", saturate to VEE, saturate to VDD, become equal to ?0.1 V, become equal to 0.1 V,A
+"The open loop transfer function of a unity gain negative feedback system is given by, The range of K for whG(S) =K/s^2+4s-5 ch the system is stable, is",one LHP pole and one RHP zero at the same frequency.,one LHP pole and one LHP zero at the same frequency., two LHP poles and one RHP zero., two RHP poles and one LHP zero.,A
+"The type of single-phase induction motor, expected to have the maximum power factor during steady state running condition, is",Thyristor, MOSFET,BJT, IGBT,B
+"For the circuit shown below with ideal diodes, the output will be", K >5,k<5,k<3,k>3,A
+"The output impedance of a non-ideal operational amplifier is denoted by Zout . 
+The variation in the magnitude of Zout with increasing frequency, f , in the circuit shown below, is best represented by", capacitor start, split phase (resistance start)," capacitor start, capacitor run",shaded pole,C
+"The open loop transfer function of a unity gain negative feedback system is given as G(s)= 1/s(s+1)
+The Nyquist contour in the s-plane encloses the entire right half plane and a small neighborhood around 
+the origin in the left half plane, as shown in figure below. The number of encirclements of the point (-1+j0)
+by the Nyquist plot of Gs( ), corresponding to the Nyquist contour, is denoted as N. Then N
+equals to",0.1 and n 10 rad/s,0.5 and n 10 rad/s,0.707 and n 10 rad/s, 0.707 and n 100 rad/s,A
+"The damping ratio and undamped natural frequency of a closed loop system as shown in the figure, are denoted as and n , respectively.
+ The values of and n are",0.8125,0.6976,0.3024,0.4235,D
+"eA denotes the exponential of a square matrix A. Suppose is an eigenvalue and v is the corresponding eigen-vector of matrix A.
+
+Consider the following two statements :
+
+Statement 1 : e is an eigenvalue of eA .
+
+Statement 2 : v is an eigen-vector of eA .
+
+Which one of the following options is correct?
+eA denotes the exponential of a square matrix A. Suppose is an eigenvalue and v is the corresponding eigen-vector of matrix A.
+
+Consider the following two statements :
+
+Statement 1 : e is an eigenvalue of eA .
+
+Statement 2 : v is an eigen-vector of eA .
+
+Which one of the following options is correct?
+",3,2,0,1,D
+Let f ( x)    0x et   t  1  t   2 dt . Then f  x  decreases in the interval,0.1 and n 10 rad/s,0.5 and n 10 rad/s,0.707 and n 10 rad/s, 0.707 and n 100 rad/s,B
+"Consider a matrix A    1   0     0
+                                            0   4     2
+                                            0    1    1
+The matrix A satisfies the equation 6A 1     A2    cA  dI , where c and d are scalars and I is the identity
+matrix. Then (c  d) is equal to
+
+",Statement 1 is true and statement 2 is false.," Statement 1 is true and statement 2 is false.
+
+",Both the statements are correct., Both the statements are false.,C
+"The fuel cost functions in rupees/hour for two 600 MW thermal power plants are given by
+
+Plant 1 : C   350  6P  0.004P2
+1 1 1
+ Plant 2 : C   450  aP   0.003P2   
+   2 2 2   
+ where P1  and P2 are power generated by plant 1 and plant 2, respectively, in MW and a is constant. The
+ incremental cost of power (  ) is 8 rupees per MWh. The two thermal power plants together meet a total
+ power demand of 550 MW. The optimal generation of plant 1 and plant 2 in MW, respectively, are
+","  x 2, 3","x   1, 2 "," x  0,1","  x 0.5,1",B
+The current gain ( I out / Iin ) in the circuit with an ideal current amplifier given below is,5,17,11,"– 6
+ 
+",A
+"If  the magnetic field  intensity (H) in  a conducting  region  is  given  by  the  expression,
+   2 ˆ x 2 y 2 ˆ 2 y 2 z 2 ˆ            2
+H  x i      j  x     k A/m. The magnitude of the current density, in A/m  , at x = 1 m, y = 2 m and
+z = 1 m, is                          
+","200, 350","350, 200"," 325, 225 ","250, 300",D
+"Let a causal LTI system be governed by the following differential equation 
+y (t ) 1/4 dy/dt 2 x(t ) , where x(t ) and y (t ) are the input and output respectively. Its impulse response is
+    
+ 4 dt 
+  
+
+","      Cc /C f
+
+","Cf/Cc
+          
+          
+","  Cc/ C f  
+     
+","C f/Cc
+",C
+"Let an input x(t ) 2 sin(10 t ) 5 cos(15 t ) 7 sin(42 t )  4cos(45 t) is passed through an LTI systemhaving an impulse response,
+h(t )   2 sin(10  t)/t  cos(40  t)
+The output of the system is
+
+
+",8,12,16,20,B
+"Consider the system as shown below
+where  y (t )   x (et ) . The system is",  8e 4tu (t )," 8e   tu (t )
+  
+",2e 4tu (t ),2e  tu (t ),A
+"The discrete   time  Fourier  series representation  of  a   signal   x[n] with  period  N  is  written  as
+ N  1                                  
+x[ n]ak e j (2 kn  / N ) . A discrete time periodic signal with period N  3, has the non-zero Fourier series
+ k  0                                  
+coefficients : a 3     2 and a4    1. The signal is                 
+", 2 sin(10 t )  5cos(15 t), 2 sin(10 t )  4cos(45 t),7 sin(42 t )  4cos(45 t),5 cos(15  t )  7sin(42 t),C
+"Let, f ( x, y , z )   4 x 2    7 xy  3xz2 . The direction in which the function  f ( x, y, z) increases most rapidly
+at point P  (1, 0, 2) is             
+", non-linear and causal., linear and non-causal., non-linear and non-causal., linear and causal.,B
+Let R be a region in the first quadrant of the xy plane enclosed by a closed curve C considered in counter-clockwise direction. Which of the following expressions does not represent the area of the region R?,"2  2e        cos     n 
+               
+          
+","  2  2e    3 cos      n
+          
+               
+"," 1  2e        cos    n 
+           
+                
+","   1  2e      cos    
+",C
+"Let E( x, y, z )  2 x 2  
+  i 5 y j  3z k . The value of(   E ) dV , where V  is the volume enclosed by the
+                   
+unit cube defined by 0  x  1, 0   y  1, and 0   z  1, is
+","20i 12k
+","20i 7 j  12k
+","20i 7 j
+","20i
+",B
+"As shown in the figure below, two concentric conducting spherical shells, centered at r   0 and having
+radii r  c and r   d are maintained at potentials such that the potential V (r) at r  c is V1  and V (r) at
+r   d is V2 . Assume that V (r) depends only on r , where r is the radial distance. The expression for
+V (r) in the region between r  c and r   d is 
+","xdy/C
+"," 1 /2( xdy   ydx)
+ 
+","dxdy/ R
+","ydx/C 
+",D
+"Given below are two statements 1 and 2. and two conclusions I and II.
+Statement 1: All bacteria are microorganisms.
+Statement 2: All pathogens are microorganisms.
+Conclusion I: Some pathogens are bacteria.
+Conclusion II: All pathogens are not bacteria.
+Based oil the above statements and conclusions, which one of the following options is logically
+CORRECT?
+Options
+",3,8,10,5,C
+"The Ratio of boys to girls in class 7 to 3, among the options below, An acceptable value for total number of students in class is :","V ( r)  cd (V2    V1 )/(dc)r V1c  V2 d   2V1d/dc
+   
+"," V ( r) cd (V1    V2 ) /(dc)r V2 d  V1c/dc
+  
+      
+","V ( r) cd (V1    V2 ) /(dc)r  V1c  V2 c /dc
+  
+"," V ( r) cd (V2    V1 ) /(dc)r  V2 c  V1c /dc
+      
+   
+",C
+"_____ is to surgery as writer is to _____
+Which maintain similar logic relation.
+", Only conclusion I correct, Only conclusion II is collect, Either conclusion I or II is correct., Neither conclusion I nor II is correct,D
+"Detail of prices of two item P and Q are presented in the above table. The ratio of cost of item P to cost of item Q is 3 : 4. Discount is calculated as difference between marked and selling price. The profit percentage is calculated as ratio of difference between selling price and cost, to the cost price.
+Profit % = Selling Price ? Cost Price ×100/coast price
+The discount on Q, as a % marked price is ______.
+ 
+  
+",21,73,37,50,D
+"We have 2 rectangular sheets of paper, M and N, of Dimension 6 cm×1 cm each. Sheet M is rolled to form an open cylinder by bringing short edges of the sheet together. Sheet and N is cut into equal square patches and assembled to form largest possible closed cube. Assuming the ends of the cylinder are closed, ratio of the volume of the cylinder to that of the cube is _______.","Doctor, Book","Hospital, Library","Medicine, grammar"," Plan, outline",A
+"
+
+
+
+A circular sheet of paper is folded along the lines in the directions shown. The paper, after being punched in the final folded state as shown and unfolded in the reverse order of folding, will look like________.",25,12.5,10,25,C
+"A polygon is convex if. for every pair of points, P and Q belonging to the polygon, the line segment PQ
+lies completely inside or on the polygon. 
+Which one of the following is NOT a convex polygon?
+","9 / ?
+",3?," ?/2
+","3/?
+",A
+"Some people suggest Anti Obesity Measures (AOM) such as displaying calorie information in restaurant menus. Such measures sidestep addressing the core problems that cause obesity, poverty and income inequality.Which of the following statements summarize this page",0.8125,0.6976,0.3024,0.4235,B
+"Consider the following sentences:
+(i) Everybody in the class is prepared for the exam.
+(ii) Babu invited Danish to his home because he enjoys playing chess
+Which of the following is the CORRECT observation about the above two sentences?
+",,,,,C
+There are five bags each containing identical sets of ten distinct chocolates. One chocolate is. picked from each bag. The probability that at least two chocolates are identical is___________. Options :,AOM addressing the core problem and are likely to succeed,"The Proposed AOM are addressing the core problem that causes obesity.
+
+", AOM addressing the problem superficially,"If Obesity reduces, poverty will naturally reduce, since obesity causes poverty",C
+"Some people suggest Anti Obesity Measures (AOM) such as displaying calorie information in restaurant menus. Such measures sidestep addressing the core problems that cause obesity, poverty and income inequality.Which of the following statements summarize this page",(i) is grammatically incorrect and (ii) is unambiguous,(i) is grammatically correct and (ii) is unambiguous,"(i) is grammatically correct and (ii) is ambiguous
+
+", (i) is grammatically incorrect and (ii) is ambiguous,C
+"Let G be a group of order 6, arid H be a subgroup of G such that 1 following options is correct?",0.8125,0.6976,0.3024,0.4235,B

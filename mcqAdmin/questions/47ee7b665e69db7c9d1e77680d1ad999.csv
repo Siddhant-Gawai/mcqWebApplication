@@ -1,0 +1,238 @@
+questions_title,questions_optiona,questions_optionb,questions_optionc,questions_optiond,questions_answer
+"As you grow older, an injury to your ______ may take longer to ______.",AOM addressing the core problem and are likely to succeed," The Proposed AOM are addressing the core problem that causes obesity.
+
+",AOM addressing the problem superficially," If Obesity reduces, poverty will naturally reduce, since obesity causes poverty",C
+"In a 500 m race, P and Q have speeds in the ratio of 3 : 4. Q starts the race when P has already covered 140 m. 
+What is the distance between P and Q (in m) when P wins the race?", (i) is grammatically incorrect and (ii) is unambiguous, (i) is grammatically correct and (ii) is unambiguous," (i) is grammatically correct and (ii) is ambiguous
+
+", (i) is grammatically incorrect and (ii) is ambiguous,C
+"Three bells P, Q and R are rung periodically in a school. P is rung every 20 minutes, Q is rung every 30 minutes and R is rung every 50 minutes. If all the three bells are rung at 12:00 PM, when will the three bells ring together again the next time?",heal/heal,heel/heel, heel/heal, heal/heel,C
+"Given below are two statements and four conclusions drawn based on the statements. 
+Statement 1 : Some bottles are cups. 
+Statement 2 : All cups are knives. 
+Conclusion I : Some bottles are knives. 
+Conclusion II : Some knives are cups. 
+Conclusion III : All cups are bottles. 
+Conclusion IV : All knives are cups. 
+Which one of the following options can be logically inferred? ",20,140,40,60,A
+"The figure below shows the front and rear view of a disc, which is shaded with identical patterns. 
+The disc is flipped once with respect to any one of the fixed axes 1-1, 2-2 or 3-3 chosen uniformly at random. 
+What is the probability that the disc DOES NOT retain the same front and rear views after the flipping operation?",6.30 PM,5.00 PM,6.00 PM,5.30 PM,B
+"Altruism is the human concern for the wellbeing of others. Altruism has been shown to be motivated more by social bonding, familiarity and identification of belongingness to a group. The notion that altruism may be attributed to empathy or guilt has now been rejected. Which one of the following is the CORRECT logical inference based on the information in the above passage?", Only conclusion II and conclusion III are correct,Only conclusion II and conclusion IV are correct,Only conclusion III and conclusion IV are correct, Only conclusion I and conclusion II are correct,D
+"There are two identical dice with a single letter on each of the faces. The following six letters : Q, R, S, T, U and V, one on each of the faces. Any of the six outcomes are equally likely. The two dice are thrown once independently at random. What is the probability that the outcomes on the dice were composed only of any combination of the following possible outcomes : Q, U and V?",1,0, 2 /3, 1 /3,C
+"The price of an item is 10% cheaper in an online store S compared to the price at another online store M. Store S charges `150 for delivery. There are no delivery charges for orders from the store M. A person bought the item from the store S and saved `100.
+ What is the price of the item at the online store S (in `) if there are no other charges than what is described above?",Humans engage in altruism due to guilt but not empathy., Humans engage in altruism due to group identification but not empathy.,Human engage in altruism due to empathy but not guilt.,Human engage in altruism due to empathy but not familiarity.,B
+"The letters P, Q, R, S, T and U are to be placed one per vertex on a regular convex hexagon, but not necessarily in the same order. 
+Consider the following statements : 
+The line segment joining R and S is longer than the line segment joining P and Q. 
+ The line segment joining R and S is perpendicular to the line segment joining P and Q. 
+The line segment joining R and U is parallel to the line segment joining T and Q. 
+Based on the above statements, which one of the following options is CORRECT?",01-Jun,03-Apr,May-36, 1 /4,D
+"An ant is at the bottom-left corner of a grid (point P) as shown above. It aims to move to the top right corner of the grid. 
+The ant moves only along the lines marked in the grid such that the current distance to the top-right corner strictly decreases. Which one of the following is a part of a possible trajectory of the ant during the movement?",1500,2500,1750,2250,D
+"The transfer function of a real system, H s( ) , is given as : 
+H(s)=As+B/s^2+Cs+D
+where A B C , , and D are positive constants. This system cannot operate as", The line segment joining T and Q is parallel to the line joining P and U., The line segment joining Q and S is perpendicular to the line segment joining R and P., The line segment joining R and T is parallel to the line segment joining Q and S.,The line segment joining R and P is perpendicular to the line segment joining U and Q.,C
+"For an ideal MOSFET biased in saturation, the magnitude of the small signal current gain for a common drain amplifier is",,,,,B
+"The most commonly used relay, for the protection of an alternator against loss of excitation, is",band pass filter, low pass filter, an integrator,high pass filter,C or D
+"The geometric mean radius of a conductor, having four equal strands with each strand of radius ‘r’, as shown in the figure below, is", infinite,1,100,0,A
+"The valid positive, negative and zero sequence impedance (in p.u.), resprespectively, for a 220 kV, fully 
+transposed three-phase transmission line, from the given choices are",differential relay, offset Mho relay.,Buchholz relay,over current relay.,B
+"The steady state output ( ) Vout , of the circuit shown below, will",1.723 r,2 r, 4 r, over current relay.,A
+"The Bode magnitude plot of a first order stable system is constant with frequency. 
+The asymptotic value of the high frequency phase, for the system, is 0 -180 . This system has","0.15, 0.15 and 0.35","0.2, 0.2 and 0.2","1.1, 0.15 and 0.08","0.1, 0.3 and 0.1",A
+"A charger supplies 100 W at 20 V for charging the battery of a laptop. The power devices, used in the converter inside the charger, operate at a switching frequency of 200 kHz. Which power device is best suited for this purpose?", saturate to VEE, saturate to VDD, become equal to 0.1 V, become equal to 0.1 V,A
+"The open loop transfer function of a unity gain negative feedback system is given by, The range of K for whG(S) =K/s^2+4s-5 ch the system is stable, is",one LHP pole and one RHP zero at the same frequency.,one LHP pole and one LHP zero at the same frequency., two LHP poles and one RHP zero., two RHP poles and one LHP zero.,A
+"The type of single-phase induction motor, expected to have the maximum power factor during steady state running condition, is",Thyristor, MOSFET,BJT, IGBT,B
+"For the circuit shown below with ideal diodes, the output will be", K >5,k<5,k<3,k>3,A
+"The output impedance of a non-ideal operational amplifier is denoted by Zout . 
+The variation in the magnitude of Zout with increasing frequency, f , in the circuit shown below, is best represented by", capacitor start, split phase (resistance start)," capacitor start, capacitor run",shaded pole,C
+"The open loop transfer function of a unity gain negative feedback system is given as G(s)= 1/s(s+1)
+The Nyquist contour in the s-plane encloses the entire right half plane and a small neighborhood around 
+the origin in the left half plane, as shown in figure below. The number of encirclements of the point (-1+j0)
+by the Nyquist plot of Gs( ), corresponding to the Nyquist contour, is denoted as N. Then N
+equals to",,,,,A
+"The damping ratio and undamped natural frequency of a closed loop system as shown in the figure, are denoted as and n , respectively.
+ The values of and n are",,,,,D
+"eA denotes the exponential of a square matrix A. Suppose is an eigenvalue and v is the corresponding eigen-vector of matrix A.
+
+Consider the following two statements :
+
+Statement 1 : e is an eigenvalue of eA .
+
+Statement 2 : v is an eigen-vector of eA .
+
+Which one of the following options is correct?
+eA denotes the exponential of a square matrix A. Suppose is an eigenvalue and v is the corresponding eigen-vector of matrix A.
+
+Consider the following two statements :
+
+Statement 1 : e is an eigenvalue of eA .
+
+Statement 2 : v is an eigen-vector of eA .
+
+Which one of the following options is correct?
+",3,2,0,1,D
+Let f ( x)    0x et   t  1  t   2 dt . Then f  x  decreases in the interval,0.1 and n 10 rad/s,0.5 and n 10 rad/s,0.707 and n 10 rad/s, 0.707 and n 100 rad/s,B
+"Consider a matrix A    1   0     0
+                                            0   4     2
+                                            0    1    1
+The matrix A satisfies the equation 6A 1     A2    cA  dI , where c and d are scalars and I is the identity
+matrix. Then (c  d) is equal to
+
+",Statement 1 is true and statement 2 is false.," Statement 1 is true and statement 2 is false.
+
+",Both the statements are correct., Both the statements are false.,C
+"The fuel cost functions in rupees/hour for two 600 MW thermal power plants are given by
+
+Plant 1 : C   350  6P  0.004P2
+1 1 1
+ Plant 2 : C   450  aP   0.003P2   
+   2 2 2   
+ where P1  and P2 are power generated by plant 1 and plant 2, respectively, in MW and a is constant. The
+ incremental cost of power (  ) is 8 rupees per MWh. The two thermal power plants together meet a total
+ power demand of 550 MW. The optimal generation of plant 1 and plant 2 in MW, respectively, are
+","  x 2, 3","x   1, 2 "," x  0,1","  x 0.5,1",B
+The current gain ( I out / Iin ) in the circuit with an ideal current amplifier given below is,5,17,11,"– 6
+ 
+",A
+"If  the magnetic field  intensity (H) in  a conducting  region  is  given  by  the  expression,
+   2 ˆ x 2 y 2 ˆ 2 y 2 z 2 ˆ            2
+H  x i      j  x     k A/m. The magnitude of the current density, in A/m  , at x = 1 m, y = 2 m and
+z = 1 m, is                          
+","200, 350","350, 200"," 325, 225 ","250, 300",D
+"Let a causal LTI system be governed by the following differential equation 
+y (t ) 1/4 dy/dt 2 x(t ) , where x(t ) and y (t ) are the input and output respectively. Its impulse response is
+    
+ 4 dt 
+  
+
+","      Cc /C f
+
+","Cf/Cc
+          
+          
+","  Cc/ C f  
+     
+","C f/Cc
+",C
+"Let an input x(t ) 2 sin(10 t ) 5 cos(15 t ) 7 sin(42 t )  4cos(45 t) is passed through an LTI systemhaving an impulse response,
+h(t )   2 sin(10  t)/t  cos(40  t)
+The output of the system is
+
+
+",8,12,16,20,B
+"Consider the system as shown below
+where  y (t )   x (et ) . The system is",  8e 4tu (t )," 8e   tu (t )
+  
+",2e 4tu (t ),2e  tu (t ),A
+"The discrete   time  Fourier  series representation  of  a   signal   x[n] with  period  N  is  written  as
+ N  1                                  
+x[ n]ak e j (2 kn  / N ) . A discrete time periodic signal with period N  3, has the non-zero Fourier series
+ k  0                                  
+coefficients : a 3     2 and a4    1. The signal is                 
+", 2 sin(10 t )  5cos(15 t), 2 sin(10 t )  4cos(45 t),7 sin(42 t )  4cos(45 t),5 cos(15  t )  7sin(42 t),C
+"Let, f ( x, y , z )   4 x 2    7 xy  3xz2 . The direction in which the function  f ( x, y, z) increases most rapidly
+at point P  (1, 0, 2) is             
+", non-linear and causal., linear and non-causal., non-linear and non-causal., linear and causal.,B
+Let R be a region in the first quadrant of the xy plane enclosed by a closed curve C considered in counter-clockwise direction. Which of the following expressions does not represent the area of the region R?,"2  2e        cos     n 
+               
+          
+","  2  2e    3 cos      n
+          
+               
+"," 1  2e        cos    n 
+           
+                
+","   1  2e      cos    
+",C
+"Let E( x, y, z )  2 x 2  
+  i 5 y j  3z k . The value of(   E ) dV , where V  is the volume enclosed by the
+                   
+unit cube defined by 0  x  1, 0   y  1, and 0   z  1, is
+","20i 12k
+","20i 7 j  12k
+","20i 7 j
+","20i
+",B
+"As shown in the figure below, two concentric conducting spherical shells, centered at r   0 and having
+radii r  c and r   d are maintained at potentials such that the potential V (r) at r  c is V1  and V (r) at
+r   d is V2 . Assume that V (r) depends only on r , where r is the radial distance. The expression for
+V (r) in the region between r  c and r   d is 
+","xdy/C
+"," 1 /2( xdy   ydx)
+ 
+","dxdy/ R
+","ydx/C 
+",D
+"Given below are two statements 1 and 2. and two conclusions I and II.
+Statement 1: All bacteria are microorganisms.
+Statement 2: All pathogens are microorganisms.
+Conclusion I: Some pathogens are bacteria.
+Conclusion II: All pathogens are not bacteria.
+Based oil the above statements and conclusions, which one of the following options is logically
+CORRECT?
+Options
+",3,8,10,5,C
+"The Ratio of boys to girls in class 7 to 3, among the options below, An acceptable value for total number of students in class is :","V ( r)  cd (V2    V1 )/(dc)r V1c  V2 d   2V1d/dc
+   
+"," V ( r) cd (V1    V2 ) /(dc)r V2 d  V1c/dc
+  
+      
+","V ( r) cd (V1    V2 ) /(dc)r  V1c  V2 c /dc
+  
+"," V ( r) cd (V2    V1 ) /(dc)r  V2 c  V1c /dc
+      
+   
+",C
+"_____ is to surgery as writer is to _____
+Which maintain similar logic relation.
+", Only conclusion I correct, Only conclusion II is collect, Either conclusion I or II is correct., Neither conclusion I nor II is correct,D
+"Detail of prices of two item P and Q are presented in the above table. The ratio of cost of item P to cost of item Q is 3 : 4. Discount is calculated as difference between marked and selling price. The profit percentage is calculated as ratio of difference between selling price and cost, to the cost price.
+Profit % = Selling Price − Cost Price ×100/coast price
+The discount on Q, as a % marked price is ______.
+ 
+  
+",21,73,37,50,D
+"We have 2 rectangular sheets of paper, M and N, of Dimension 6 cm×1 cm each. Sheet M is rolled to form an open cylinder by bringing short edges of the sheet together. Sheet and N is cut into equal square patches and assembled to form largest possible closed cube. Assuming the ends of the cylinder are closed, ratio of the volume of the cylinder to that of the cube is _______.","Doctor, Book","Hospital, Library","Medicine, grammar"," Plan, outline",A
+"
+
+
+
+A circular sheet of paper is folded along the lines in the directions shown. The paper, after being punched in the final folded state as shown and unfolded in the reverse order of folding, will look like________.",25,12.5,10,25,C
+"A polygon is convex if. for every pair of points, P and Q belonging to the polygon, the line segment PQ
+lies completely inside or on the polygon. 
+Which one of the following is NOT a convex polygon?
+","9 / π
+",3π," π/2
+","3/π
+",A
+"Some people suggest Anti Obesity Measures (AOM) such as displaying calorie information in restaurant menus. Such measures sidestep addressing the core problems that cause obesity, poverty and income inequality.Which of the following statements summarize this page",0.8125,0.6976,0.3024,0.4235,B
+"Consider the following sentences:
+(i) Everybody in the class is prepared for the exam.
+(ii) Babu invited Danish to his home because he enjoys playing chess
+Which of the following is the CORRECT observation about the above two sentences?
+",,,,,C
+There are five bags each containing identical sets of ten distinct chocolates. One chocolate is. picked from each bag. The probability that at least two chocolates are identical is___________. Options :,AOM addressing the core problem and are likely to succeed,"The Proposed AOM are addressing the core problem that causes obesity.
+
+", AOM addressing the problem superficially,"If Obesity reduces, poverty will naturally reduce, since obesity causes poverty",C
+"Some people suggest Anti Obesity Measures (AOM) such as displaying calorie information in restaurant menus. Such measures sidestep addressing the core problems that cause obesity, poverty and income inequality.Which of the following statements summarize this page",(i) is grammatically incorrect and (ii) is unambiguous,(i) is grammatically correct and (ii) is unambiguous,"(i) is grammatically correct and (ii) is ambiguous
+
+", (i) is grammatically incorrect and (ii) is ambiguous,C
+"Let G be a group of order 6, arid H be a subgroup of G such that 1 following options is correct?",0.8125,0.6976,0.3024,0.4235,B
+"The Bode magnitude plot of a first order stable system is constant with frequency. 
+The asymptotic value of the high frequency phase, for the system, is 0 -180 . This system has","0.15, 0.15 and 0.35","0.2, 0.2 and 0.2","1.1, 0.15 and 0.08","0.1, 0.3 and 0.1",A
+,"Both G and H may not be cyclic.
+
+",Both G and H are always cyclic.,"G is always cyclic, but H may not be cyclic."," G may not be cyclic, but H is always cyclic.
+
+",D
+"Consider the following sentences:
+(i) Everybody in the class is prepared for the exam.
+(ii) Babu invited Danish to his home because he enjoys playing chess
+Which of the following is the CORRECT observation about the above two sentences?
+",0.8125,0.6976,0.3024,0.4235,B
+"Some people suggest Anti Obesity Measures (AOM) such as displaying calorie information in restaurant menus. Such measures sidestep addressing the core problems that cause obesity, poverty and income inequality.Which of the following statements summarize this page",AOM addressing the core problem and are likely to succeed,"The Proposed AOM are addressing the core problem that causes obesity.
+
+", AOM addressing the problem superficially,"If Obesity reduces, poverty will naturally reduce, since obesity causes poverty",C
+Consider the unsigned 8-bit fixed point binary number representation below : 7 6 5 4 3 2 1 0. Where the position of the binary point is between b3 and 2 b . Assume b7 is the most significant bit. Some of the decimal numbers listed below cannot be represented exactly in the above representation:,31.5,0.875,12.1,3,C

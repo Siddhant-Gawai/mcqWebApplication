@@ -1,0 +1,162 @@
+questions_title,questions_optiona,questions_optionb,questions_optionc,questions_optiond,questions_answer
+"	If E and G respectively denote energy and
+E gravitational constant, then 	  has the dimensions
+G of ","	[ M ] [ L?1 ] [ T?1 ]","	[ M ] [ L0 ]  [ T0 ]",   [ M2 ] [ L?2 ] [ T?1 ],"	[ M2 ] [ L?1 ] [ T0 ]",D
+"	A capacitor of capacitance ‘C’, is connected across an ac source of voltage V, given by
+V=V0 sin?t
+The displacement current between the plates of the capacitor, would then be given by :","	Id= cos t? ?C","	Id= sin t?","	Id=V0 ?Csin?t","	Id=V0 ?Ccos?t",D
+"	A lens of large focal length and large aperture is best suited as an objective of an astronomical telescope since ","	a large aperture contributes to the quality and visibility of the images","	a large area of the objective ensures better light gathering power.","	a large aperture provides a better resolution.","	Id=V0 ?Ccos?t",D
+"	The electron concentration in an n-type semiconductor is the same as hole concentration in a p-type semiconductor.  An external field (electric) is applied across each of them.  Compare the currents in them","	current in p-type > current in n-type","	current in n-type > current in p-type.","	No current will flow in p-type, current will only flow in n-type","	all of the above.",B
+"	A body is executing simple harmonic motion with frequency ‘n’, the frequency of its potential energy is :",               2n,"	3n","	4n",current in n-type=current in p-type.,A
+"	A small block slides down on a smooth inclined plane, starting from rest at time t=0.  Let Sn be the distance travelled by the block in the interval","	2n+1","	2n?1",2n,"	n",A
+"	A small block slides down on a smooth inclined plane, starting from rest at time t=0.  Let Sn be the distance travelled by the block in the interval","	acquire a dipole moment only in the presence of electric field due to displacement of charges.",             acquire a dipole moment only when magnetic field is absent.,"	having a permanent electric dipole moment.","	having zero dipole moment.",C
+"	Two charged spherical conductors of radius R1 and R2 are connected by a wire.  Then the ratio of surface charge densities of the spheres (?1/?2) is :","	R1",R2,R3,R6n,A
+"	Consider the following statements (A) and (B) and identify the correct answer.","	A zener diode is connected in reverse bias, when used as a voltage regulator","	The potential barrier of p-n junction lies between 0.1 V to 0.3 V.","	(A) and (B) both are incorrect","	(A) is correct and (B) is incorrect.",B
+A cup of coffee cools from 908C to 808C in t minutes when the room temperature is 208C.  The time taken by a similar cup of coffee to cool from 808C to 608C at a room temperature same at 208C is :,13t,15t,16t,198t,A
+"	A nucleus with mass number 240 breaks into two fragments each of mass number 120, the binding energy per nucleon of unfragmented nuclei is 7.6 MeV while that of fragments is 8.5 MeV.  The total gain in the Binding Energy in the process is :","	9.4 MeV","	804 MeV","	216 MeV","	0.9 MeV",C
+"	For a plane electromagnetic wave propagating in x-direction, which one of the following combination gives the correct possible directions for electric field (E) and magnetic field (B) respectively ?","? ? ? ?
+(1)	?+ ??j	k, 	j	k","? ? ? ?
+(2)	j+ ??k, 	j	k","? ? ? ?
+(3)	?+ ?+j	k, 	j	k","? ? ? ?
+	j+ +k, j 	k",A
+"	The number of photons per second on an average emitted by the source of monochromatic light of wavelength 600 nm, when it delivers the power of 3.3×10?3 watt will be : (h=6.6×10?34 Js)","	1017","	1016",1015,1018,B
+"	A particle is released from height S from the surface of the Earth.  At a certain height its kinetic energy is three times its potential energy.  The height from the surface of earth and the speed of the particle at that instant are respectively ",s/2,s/4,s/8,s/9,C
+"	The equivalent capacitance of the combination shown in the figure is :",2c,"	C/2","	3C/2","	3C",A
+"	An inductor of inductance L, a capacitor of capacitance C and a resistor of resistance ‘R’ are connected in series to an ac source of potential difference ‘V’ volts as shown in figure.
+Potential difference across L, C and R is 40 V, 10 V and 40 V, respectively.  The amplitude of current flowing through LCR series circuit is",5/^2 ?,4 ?,5 ?,4 2 ?,C
+The half-life of a radioactive nuclide is 100 hours. ,1/2^2,03-Feb,May-96,75/3s,A
+"	A convex lens ‘A’ of focal length 20 cm and a concave lens ‘B’ of focal length 5 cm are kept along the same axis with a distance ‘d’ between them.  If a parallel beam of light falling on ‘A’ leaves ‘B’ as a parallel beam, then the distance ‘d’ in cm will be :","	15","	50","	30","	25",A
+"	A dipole is placed in an electric field as shown.  In which direction will it move ?","	towards the right as its potential energy will decrease.","	towards the left as its potential energy will decrease.","	towards the right as its potential energy will increase.","	towards the left as its potential energy will increase.",A
+"	The velocity of a small ball of mass M and density d, when dropped in a container filled with glycerine becomes constant after some time.  If the density of glycerine is 	  , then the viscous force acting on
+2 the ball will be :","	Mg","	 Mg/3","	2 Mg",Mg/2,D
+"The escape velocity from the Earth’s surface is v. The escape velocity from the surface of another planet having a radius, four times that of Earth and same mass density is :","	2 v",3 v,"	4 v","	v",C
+"	A radioactive nucleus ZX undergoes spontaneous decay in the sequence
+A
+ZX? ? ?Z 1? B Z 3? C Z 2? D , where Z is the atomic number of element X.  The possible decay particles in the sequence are :","	?, ?+, ??","	?+, ?, ??","	??, ?, ?+","	?, ??, ?+",B
+"	Match Column - I and Column - II and choose the correct match from the given choices.
+	Column - I	Column - II
+	1	2
+(A)	Root mean square	(P) speed of gas molecules
+(B)	Pressure exerted	(Q) by ideal gas
+(C)	Average kinetic energy	(R) of a molecule
+(D)	Total internal energy	(S)	 k TB of 1 mole of a diatomic gas","	(A) - (Q), (B) - (R), (C) - (S), (D) - (P)"," (Q), (B) - (P), (C) - (S), (D) - ®"," (B) - (Q), (C) - (P), (D) - (S)","(R), (B) - (P), (C) - (S), (D) - (Q)",B
+Water falls from a height of 60 m at the rate of 15 kg/s to operate a turbine.  The losses due to frictional force are 10% of the input energy.  How much power is generated by the turbine ? (g=10 m/s2),"	8.1 kW","	12.3 kW","	7.0 kW","	10.2 kW",A
+"	A screw gauge gives the following readings when used to measure the diameter of a wire Main scale reading : 0 mm
+Circular scale reading : 52 divisions
+Given that 1 mm on main scale corresponds to 100 divisions on the circular scale.  The diameter of the wire from the above data is :","	0.026 cm",0.26 cm,"	0.052 cm","	0.52 cm",C
+"	A parallel plate capacitor has a uniform electric
+?
+field ‘E’ in the space between the plates.  If the distance between the plates is ‘d’ and the area of each plate is ‘A’, the energy stored in the capacitor is : (?0=permittivity of free space)","	?0EAd","	 ? E Ad0",None,2? E0,B
+"	An electromagnetic wave of wavelength ‘?’ is incident on a photosensitive surface of negligible work function.  If ‘m’ mass is of photoelectron emitted from the surface has de-Broglie wavelength ?d, then :","	? =d ?	 ?? ? h ?","	?=?	 ??d
+? h ?","	?=?	 ??d",None,B
+"	In a potentiometer circuit a cell of EMF 1.5 V gives balance point at 36 cm length of wire.  If another cell of EMF 2.5 V replaces the first cell, then at what length of the wire, the balance point occurs ?",1.6 cm,"	64 cm","	62 cm","	60 cm",D
+"	The effective resistance of a parallel connection that consists of four wires of equal length, equal area of cross-section and same material is 0.25 ?.  What will be the effective resistance if they are connected in series ","	0.5 ?","	1 ?","	4 ?","	0.25 ?",C
+"	An infinitely long straight conductor carries a
+current of 5 A as shown.  An electron is moving with a speed of 105 m/s parallel to the conductor. The perpendicular distance between the electron
+and the conductor is 20 cm at an instant. Calculate the magnitude of the force experienced by the electron at that instant.","	8?×10?20 N","	4?×10?20 N","	8×10?20 N 4×10?20 N",All options are Correct,C
+"	A step down transformer connected to an ac mains supply of 220 V is made to operate at 11 V, 44 W lamp.  Ignoring power losses in the transformer, what is the current in the primary circuit ?","	0.4 A","	2 A","	4 A",12.02 AM,B
+"	A uniform conducting wire of length 12a and resistance ‘R’ is wound up as a current carrying coil in the shape of,
+(i)	an equilateral triangle of side ‘a’.
+(ii)	a square of side ‘a’.
+The magnetic dipole moments of the coil in each case respectively are :","	3 Ia2 and Ia2","	3 Ia2 and 4 Ia2","	4 Ia2 and 3 Ia2","	3 Ia2 and 3 Ia2",D
+"	A car starts from rest and accelerates at 5 m/s2. At t=4 s, a ball is dropped out of a window by a person sitting in the car.  What is the velocity and acceleration of the ball at t=6 s ? (Take g=10 m/s2)","	20 m/s, 0",203 m/s, 89m/s,45m/s,C
+"	Twenty seven drops of same size are charged at 220 V each.  They combine to form a bigger drop. Calculate the potential of the bigger drop.","	1320 V","	1520 V","	1980 V","	660 V",C
+"	The structures of beryllium chloride in solid state and vapour phase, are :","	Linear in both","	Dimer and Linear, respectively","	Chain in both ","Chain and dimer, respectively",D
+"	Statement I :
+Acid strength increases in the order given as HF << HCl << HBr << HI.
+Statement II :
+As the size of the elements F, Cl, Br, I increases down the group, the bond strength of HF, HCl, HBr and HI decreases and so the acid strength increases.
+In the light of the above statements, choose the correct answer from the options given below.","	Both Statement I and Statement II are false.","	Statement I is correct but Statement II is false.","Statement 	I 	is 	incorrect 	but
+Statement II is true.","	Both Statement I and Statement II are true.",D
+"	Which one of the following polymers is prepared by addition polymerisation ?","	Nylon-66","	Novolac","	Dacron","	Teflon",D
+"	A particular station of All India Radio, New Delhi, broadcasts on a frequency of 1,368 kHz (kilohertz). The wavelength of the electromagnetic radiation emitted by the transmitter is : [speed of light, c=3.0×108 ms?1] (1) 219.2 m",219.2 m,"	2192 m","	21.92 cm","	219.3 m",D
+"	Zr (Z=40) and Hf (Z=72) have similar atomic and ionic radii because of :","	diagonal relationship","	lanthanoid contraction","	having similar chemical properties","	belonging to same group",B
+"	Match List - I with List - II.
+	List - I	List - II
+(a)	PCl5	(i)	Square pyramidal(b)	SF6	(ii)	Trigonal planar
+(c)	BrF5	(iii)	Octahedral
+(d)	BF3	(iv)	Trigonal bipyramidal
+Choose the correct answer from the  options given below.","	(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)","	(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)","	(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)","	(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",D
+"	What is the IUPAC name of the organic compound formed in the following chemical reaction ?
+	Acetone ??????????????(i) C H MgBr dry Ether2 5	, +	 Product
+(ii) H O H2 ,","	pentan-2-ol","	pentan-3-ol","	2-methyl butan-2-ol","	2-methyl propan-2-ol",C
+"	An organic compound contains 78% (by wt.) carbon and remaining percentage of hydrogen.  The right option for the empirical formula of this compound is :  [Atomic wt. of C is 12, H is 1]","	CH2","	CH3","	CH4","	CH",B
+"	The pKb of dimethylamine and pKa of acetic acid are 3.27 and 4.77 respectively at T (K).  The correct option for the pH of dimethylammonium acetate solution is :","	Glucose solution","	Starch solution","	Urea solution","	NaCl solution",B
+"	The right option for the statement “Tyndall effect is exhibited by”, is 66.	Tritium, a radioactive isotope of hydrogen, emits which of the following particles ?","	5.50","	7.75","	6.25","	8.50",B
+"The correct sequence of bond enthenthalpy of ‘C–X’ representation of Boyle’s law, which shows a graph",ch3,"	CH3?F < CH3?Cl > CH3?Br ","	CH3?Cl > CH3?F > CH3?Br > CH3?I","	CH3?F < CH3?Cl < CH3?Br < CH3?I",A
+"The following solutions were prepared by dissolving 10 g of glucose (C6H12O6) in 250 ml of water (P1), 10 g of urea (CH4N2O) in 250 ml of water (P2) ","	P1 > P2 > P3 ",P2 > P3 > P1 ,P2 > P1 > P3, none,D
+"	Tritium, a radioactive isotope of hydrogen, emits which of the following particles ?","	Alpha (?)","	Gamma (?)","	Neutron (n)","	Beta (??)",D
+"	The compound which shows metamerism is ","	C3H8O","	C3H6O","	C4H10O","	C5H12",C
+"	Given below are two statements :
+Statement I :
+Aspirin and Paracetamol belong to the class of narcotic analgesics.
+ Statement II :
+Morphine and Heroin are non-narcotic analgesics.
+In the light of the above statements, choose the correct answer from the options given below.","	Both Statement I and Statement II are false.","	Statement I is correct but Statement II
+(4) is false.","	Statement 	I 	is 	incorrect 	but
+Statement II is true.","	Both Statement I and Statement II are true.",A
+Which one of the following methods can be used to obtain highly pure metal which is liquid at room temperature ?,"	Chromatography","	Distillation","	Zone refining","	Electrolysis",B
+"	Noble gases are named because of their inert towards reactivity.  Identify an incorrect statement about them",Noble gases have very high melting and boiling points.,Noble gases have weak dispersion forces.,"	Noble gases have large positive values of electron gain enthalpy","	Noble gases are sparingly soluble in water.",A
+"	The pKb of dimethylamine and pKa of acetic acid are 3.27 and 4.77 respectively at T (K).  The correct option for the pH of dimethylammonium acetate solution is :","	5.50","	7.75","	6.25","	8.50",B
+"	An organic compound contains 78% (by wt.) carbon and remaining percentage of hydrogen.  The right option for the empirical formula of this compound is :  [Atomic wt. of C is 12, H is 1]","	CH2","	CH3","	CH4","	CH",B
+"	A particular station of All India Radio, New Delhi, broadcasts on a frequency of 1,368 kHz (kilohertz). The wavelength of the electromagnetic radiation emitted by the transmitter is : [speed of light, c=3.0×108 ms?1] (1) 219.2 m", 219.2 m,"	2192 m","	21.92 cm","	219.3 m",D
+"	The incorrect statement among the following is :","	Most of the trivalent Lanthanoid ions are colorless in the solid state.","	Lanthanoids are good conductors of heat and electricity.","	Actinoids are highly reactive metals, especially when finely divided.","	Actinoid contraction is greater for element to element than Lanthanoid contraction",A
+Which of the following reactions is the metal displacement reaction ?  Choose the right option.,"	Cr2O3+2Al ???? Al2O3+2Cr","	Fe+2HCl ? FeCl2+H2?","	2Pb(NO3)2 ? 2PbO+4NO2+O2?","	2KClO3 ???? 2KCl+3O2",A
+"	Which one among the following is the correct option for right relationship between CP and CV for one mole of ideal gas ?","	CP?CV=R","	CP=RCV","	CV=RCP","	CP+CV=R",A
+"Among the following alkaline earth metal halides, one which is covalent and soluble in organic solvents is :","	Strontium chloride","	Magnesium chloride","	Beryllium chloride","	Calcium chloride",C
+"	Dihedral angle of least stable conformer of ethane is :","	1808","	608",456,"	1208",C
+"	Ethylene diaminetetraacetate (EDTA) ion is ",Unidentate ligand,"	Bidentate ligand with two “N” donor atoms","	Tridentate ligand with three “N” donor atoms","	Hexadentate ligand with four “O” and two
+“N” donor atoms",D
+"	The RBC deficiency is deficiency disease of :","	Vitamin B6","	Vitamin B1","	Vitamin B2","	Vitamin B12",D
+"	The maximum temperature that can be achieved in blast furnace is :","	upto 2200 K","	upto 1900 K","	upto 5000 K","	upto 1200 K",A
+"	The molar conductance of NaCl, HCl and
+CH3COONa at infinite dilution are 126.45, 426.16 and 91.0 S cm2 mol?1 respectively.  The molar conductance of CH3COOH at infinite dilution is. Choose the right option for your answer","	390.71 S cm2 mol?1","	698.28 S cm2 mol?1","	540.48 S cm2 mol?1","	201.28 S cm2 mol?1",A
+The correct option for the number of body centred unit cells in all 14 types of Bravais lattice unit cells is :,"	5","	2","	3","	7",C
+Which of the following molecules is non-polar in nature ?,"	CH2O","	SbCl5","	NO2","	POCl3",B
+"The correct option for the value of vapour pressure of a solution at 458C with benzene to octane in molar ratio 3 : 2 is :
+[At 458C vapour pressure of benzene is 280 mm Hg and that of octane is 420 mm Hg. Assume Ideal gas]","	168 mm of Hg","	168 mm of Hg",350 mm of Hg,160 mm of Hg,B
+"	Choose the correct option for the total pressure (in atm.) in a mixture of 4 g O2 and 2 g H2 confined in a total volume of one litre at 08C is :","	2.602","	25.18","	26.02", none,B
+The major product formed in dehydrohalogenation88 reaction of 2-Bromo pentane is Pent-2-ene.  This product formation is based on ?,"	Hund’s Rule","	Hofmann Rule","	Huckel’s Rule","	Saytzeff’s Rule",A
+"	Ethylene diaminetetraacetate (EDTA) ion is ","	Chromatography",Magnesium chloride,All,none,D
+"	Genera like Selaginella and Salvinia produce two kinds of spores.  Such plants are known as :",        Brown algae,  Red algae,        Blue-green algae,      Green algae,A
+Which of the following are not secondary metabolites in plants ? ,       Heterosorus,  Homosporous,        Heterosporous,       Homosorus,C
+"	Mutations in plant cells can be induced by",      Infrared rays,Gamma rays,    Zeatin,      Kinetin,D
+"When gene targetting involving gene amplification is attempted in an individual’s tissue to treat disease, it is known as :",    Molecular diagnosis,Gene therapy,       Safety testing,       Biopiracy,D
+Which of the following algae contains mannitol as reserve food material ?,   Gracilaria,   Volvox,         Ulothrix,        Ectocarpus,D
+ Which of the following is an incorrect statement ?,Microbodies are present both in plant and animal cells,  The perinuclear space forms a barrier between the materials present inside the nucleus and that of the cytoplasm.,     Nuclear pores act as passages for proteins and RNA molecules in both directions between nucleus and cytoplasm.,Mature sieve tube elements possess a conspicuous nucleus and usual cytoplasmic organelles,B
+The site of perception of light in plants during  photoperiodism is :,     Stem, Axillary bud,  Leaf,       Shoot apex,B
+"The amount of nutrients, such as carbon, nitrogen, phosphorus and calcium present in the soil at any given time, is referred as :",     Climax community, Standing state,  Standing crop,   Climax,B
+"	The factor that leads to Founder effect in a population is :",        Genetic recombination,Mutation, Genetic drift,        Natural selection,C
+Which of the following is a correct sequence of steps in a PCR (Polymerase Chain Reaction) ,"Denaturation, Extension, Annealing","Extension, Denaturation, Annealing Annealing, Denaturation, Extension",all of these,none of these,C
+Diadelphous stamens are found in :,       Citrus,   Pea,   China rose and citrus,        China rose,C
+The plant hormone used to destroy weeds in a field is :,       NAA,"  2, 4-D",        IBA,        IAA,A
+"During the purification process for recombinant DNA technology, addition of chilled ethanol precipitates out :",       DNA, Histones,    Polysaccharides,    RNA,A
+The first stable product of CO2 fixation in sorghum is :,Oxaloacetic,Succinic,Phosphoglyceric,Pyruvic acid,D
+Which of the following plants is monoecious ?,       Chara,   Marchantia polymorpha, Cycas circinalis,     Carica papaya,C
+Which of the following stages of meiosis involves division of centromere ?,        Metaphase II,Anaphase II,    Telophase II,   Metaphase I,C
+"86 The production of gametes by the parents, formation of zygotes, the F1 and F2 plants, can be understood from a diagram called :",       Punch square,     Punnett square,    Net square,   Bullet square,A
+Gemmae are present in :,Pteridophytes,      Some Gymnosperms,  Some Liverworts,    Mosses,C
+A typical angiosperm embryo sac at maturity is :,       7-nucleate and 8-celled,   7-nucleate and 7-celled,    8-nucleate and 8-celled,   8-nucleate and 7-celled,D
+"Inspite of interspecific competition in nature, which mechanism the competing species might have evolved for their survival ?",      Competitive release Mutualism,  Pyramid of energy is always upright.,all of these ,none of these,B
+"When the centromere is situated in the middle of two equal arms of chromosomes, the chromosome is referred as :",    Telocentric,  Sub-metacentric,    Acrocentric,    Metacentric,B
+"	Which of the following statements is not correct ?",Pyramid of biomass in sea is generally upright,Pyramid of energy is always upright,Pyramid of numbers in a grassland ecosystem is upright,Pyramid of biomass in sea is generally inverted,A
+"When the centromere is situated in the middle of two equal arms of chromosomes, the chromosome is referred as :",     Telocentric, Sub-metacentric,    Acrocentric,      Metacentric,A
+"DNA strands on a gel stained with ethidium bromide when viewed under UV radiation, appear as :",      Bright orange bands,   Dark red bands,   Bright blue bands,       Yellow bands,D
+Amensalism can be represented as :,   Species A (+) ; Species B (+),    Species A (?) ; Species B (?),     Species A (+) ; Species B (0),         Species A (?) ; Species B (0),B
+In the equation GPP?R=NPP,      Retardation factor,   Environment factor,     Respiration losses,         Radiant energy,C
+"	Which of the following is not an application of PCR (Polymerase Chain Reaction) ?
+(1)	Gene amplification
+(2)	Purification of isolated protein
+Detection of gene mutation
+Molecular diagnosis
+The term used for transfer of pollen grains from anthers of one plant to stigma of a different plant which, during pollination, brings genetically different types of pollen grains to stigma, is :",    Gene amplification,    Purification of isolated protein,Detection of gene mutation,Molecular diagnosis,D
+What is the role of RNA polymerase III in the process of transcription in eukaryotes ? ,Transcribes precursor of mRNA,   Transcribes only snRNAs,"     Transcribes rRNAs (28S, 18S and 5.8S)",all of the these,A
+Which of the following statements is correct ?,Stroma lamellae have PS I only and lack NADP reductase,    Grana lamellae have both PS I and PS II.,        Cyclic photophosphorylation involves both PS I and PS II.,Both ATP and NADPH+H+ are synthesized ,B
+"	Match Column - I with Column - II.
+	Column - I	      Column - II
+(a)	(i)    Brassicaceae
+(b)	(ii)    Liliaceae
+(c)	(iii)    Fabaceae
+(d)	(iv)    Solanaceae
+Select the correct answer from the options given below.",)    Brassicaceae,   Liliaceae,                                                                       Fabaceae,          Solanaceae,D
+"	DNA fingerprinting involves identifying differences in some specific regions in DNA sequence, called as :",,       Single nucleotides,      Polymorphic DNA,,A

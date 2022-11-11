@@ -1,0 +1,143 @@
+questions_title,questions_optiona,questions_optionb,questions_optionc,questions_optiond,questions_answer
+"What is the missing number in the following sequence? 2, 12, 60, 240, 720, 1440, _______, 0",2880,1440,720,0,B
+What would be the smallest natural number which when divided either by 20 or by 42 or by 76 leaves a remainder of 7 in each case?,"Their, they’re there
+","They’re, their, there","VThere, their, they’re
+","There, their, they’re",B
+"What would be the smallest natural number which when divided either by 20 or by 42 or by 
+76 leaves a remainder of 7 in each case?",3047,"6047
+",7987,63847,C
+"“A __________ investigation can sometimes yield new facts, but typically organized ones are 
+more successful.”",meandering,timely,consistent,systemati,A
+The area of a square is d. What is the area of the circle which has the diagonal of the square as its diameter?, π d,πd2,1/4πd2,1/2πd,D
+"n pqr 0 and 1 1 1 , , , x y z p q r q r p what is the value of the product xyz?",-1,1/pqr,1,pqr,C
+"In appreciation of the social improvements completed in a town, a wealthy philanthropist decided to gift Rs 750 to each male senior citizen in the town and Rs 1000 to each female senior citizen. Altogether, there were 300 senior citizens eligible for this gift. However, only 8/9th of the eligible men and 2/3rd of the eligible women claimed the gift. How much money (in Rupees) did the philanthropist give away in total","1,50,000","2,00,000","1,75,000"," 
+ 1,51,000
+",C
+"In the figure below, 
+ +  DEC BFC
+is equal to __________.", −  BCD BAD, +  BAD BC, +  BAD BCD, +  CBA ADC,D
+A six sided unbiased die with four green faces and two red faces is rolled seven times. Which of the following combinations is the most likely outcome of the experiment?,Three green faces and four red faces,Four green faces and three red faces.,Five green faces and two red faces.,Six green faces and one red face.,C
+"In a party, 60% of the invited guests are male and 40% are female. If 80% of the invited guests attended the party and if all the invited female guests attended, what would be the ratio of males to females among the attendees in the party?",2.03,1.01,3.02,2.01,B
+,,,,,
+"Consider a long-lived TCP session with an end-to-end bandwidth of 1 Gbps (= 109 bits-per second). The session starts with a sequence number of 1234. The minimum time (in seconds, 
+rounded to the closest integer) before this sequence number can be used again is _________.
+",The proposed AOM addresses the core problems that cause obesity.,"If obesity reduces, poverty will naturally reduce, since obesity causes poverty.",AOM are addressing the core problems and are likely to succeed., AOM are addressing the problem superficially,B
+"consider a process executing on an operating system that uses demand paging. The average 
+time for a memory access in the system is M units if the corresponding memory page is 
+available in memory and D units if the memory access causes a page fault. It has been 
+experimentally measured that the average time taken for a memory access in the process is 
+X units.
+Which one of the following is the correct expression for the page fault. It has been 
+experimentally measured that the average time taken for a memory access in the process is 
+X units.
+Which one of the following is the correct expression for the page fault rate experienced by the 
+process?",(D M / X M − − ) ( ),(X M / D M − − ) ( ),(D X / D M − − ) ( ),"(X M / D X − − ) ( )
+",B
+"The postorder traversal of a binary tree is 8, 9, 6, 7, 4, 5, 2, 3, 1. The inorder traversal of the 
+same tree is 8, 6, 9, 4, 7, 2, 5, 1, 3. The height of a tree is the length of longest path from 
+the root to any leaf. The height of the binary tree above is __________.
+",21,37,50,73,C
+Let G be a finite group on 84 elements. The size of a largest possible proper subgroup of G is _________.,0,12,5,6,D
+Match the following : Field Length in bits P. UDP Header’s Port I. 48 Number Q. Ethernet MAC Address II. 8 R. IPv6 Next Header III. 32 S. TCP Header’s Sequence IV. 16 Numbe,"P-III, Q-IV, R-II, S-I","P-II, Q-I, R-IV, S-III","P-IV, Q-I, R-II, S-III","P-IV, Q-I, R-III, S-II",C
+Let N be an NFA with n states. Let k be the number of states of a minimal DFA which is equivalent to N. Which one of the following is necessarily true?,n k,k n,2 k,k ,D
+Consider a system with 3 processes that share 4 instances of the same resource type. Each process can request a maximum of K instances. Resource instances can be requested and released only one at a time. The largest value of K that will always avoid deadlock is ___________.,"Plan, outline","Hospital, library","Doctor, book",hospital,C
+Consider the following processor design characteristics: I. Register-to-register arithmetic operations only. II. Fixed-length instruction format. III. Hardwired control unit. Which of the characteristics above are used in the design of a RISC processor,I and II only,and III only,I and III onl,"I, II and III",D
+The set of all recursively enumerable languages is,closed under complementation,closed under intersection,a subset of the set of all recursive languages,an uncountable se,D
+"Consider a matrix T A uv = where 1 1 , . 2 1 u v     = =         Note that T v denotes the transpose of v. The largest eigenvalue of A is ________.",8,4,6,1,C
+"A queue is implemented using a non-circular singly linked list. The queue has a head pointer and tail pointer, as shown in the figure. Let n denote of number of nodes in the queue. Let enqueue be implemented by interesting a new node at the head and dequeue be implemented by deletion of a node from the tail. Which one of the following is the time complexity of the most time-efficient implementation of enqueue and dequeue, respectively, for this data structure?","  (1 , 1 ) ( )","  (1 ,) (n)","  (n), 1( )","  (n), 1( )",C
+"Consider the following C program : #include int calc (int a, int b) { int c; counter ++; if (b = = 3) return (a*a*a); else { c = calc (a, b/3); return (c*c*c); } } int main () { calc(4, 81); printf(“%d%d”, counter); } The output of this program is ________.",0,1,2,5,C
+Which one of the following statements is FALSE?,Context-free grammar can be used to specify both lexical and syntax rules.,Type checking is done before parsing.,High-level language programs can be translated to different Intermediate Representations.,Arguments to a function can be passed using the program stack.,D
+Consider an IP packet with a length of 4500 bytes that includes a 20-byte IPv4 header and a 40-byte TCP header. The packet is forwarded to an IPv4 router that supports a Maximum Transmission Unit (MTU) of 600 bytes. Assume that the length of the IP header in all the outgoing fragments of this packet is 20 bytes. Assume that the fragmentation offset value stored in the first fragment offset value stored in the first fragment is 0. The fragmentation offset value stored in the third fragment is _________.,123,144,345,678,D
+"Consider the following four relational schemas. For each schema, all non-trivial functional dependencies are listed. The underlined attributes are the respective primary keys. Schema I : Registration (rollno, courses) Field ‘courses’ is a set-valued attribute containing the set of courses a student has registered for. rollno → courses Schema II : Registration (rollno, courseid, email) Non-trivial functional dependencies: rollno, courseid → email email → rollno Schema III : Registration (rollno, courseid, marks, grade) Non-trivial functional dependencies: rollno, courseid → marks, grade marks → grade Schema IV : Registration (rollno, courseid, credit) Non-trivial functional dependencies: rollno, courseid → credit courseid → credit Which one of the relational schemas above is in 3NF but not in BCNF?",Schema I,Schema III,Schema IV,Schema II,A
+"consider the following problems L(G) denotes the language generated by a grammar G. L(M) denotes the language accepted by a machine M. I. For an unrestricted grammar G and a string w, where w  L(G). II. Given a Turing Machine M, whether L(M) is regular. III. Given two grammars G1 and G2 whether L G L G . ( 1 2 ) = ( ) IV. Given an NFAN, whether there is a deterministic PDA P such that N and P accept the same language. Which one of the following statements is correct?",Only I and II are undecidable,Only III is undecidable,Only II and IV are undecidable,"Only I, II and III are undecidable",B
+"Consider Guwahati (G) and Delhi (D) whose temperatures can be classified as High (H), medium (M) and low (L). Let P H( G ) denote the probability that Guwahati has High temperature. Similarly, P M( G ) and P L( G ) denotes the probability of Guwahati having medium and low temperatures respectively. Similarly, we use P H ,P M ( D D ) ( ) and P L( D ) for Delhi. The following table gives the conditional probabilities for Delhi’s temperature given Guwahati’s temperature. Consider the first row in the table above. The first entry denotes that if Guwahati has high temperature (HG ) then the probability of Delhi also having a high temperature (HD ) is 0.40; i.e., P H |H 0.40. ( D G ) = Similarly, the next two entries are P M |H 0.48 ( D G ) = and P L |H 0.12. ( D G ) = Similarly for the other rows",0.6,1,0,0.2,D
+"The size of the physical address space of a processor is 2 P bytes. The word length is 2 W bytes. The capacity of cache memory is 2 N bytes, The size of each cache block is 2 M words. For a K-way set-associative cache memory, the length (in number of bits) of the tag field is",P N log K2 −,N log K,P N M W log K2 − − − −,P N M W log K,D
+"Consider the following program written in pseudo-code. Assume that x and y are integers: 
+Count (x, y) {
+if (y ! = 1) {
+if (x ! = 1) {
+print(“*”);
+Count (x/2, y);
+}
+else {
+y = y – 1;
+Count (1024, y);
+}
+}
+}
+The number of times that the print statement is executed by the call Count (1024, 1024) is 
+__________.",10230,12345,87453,9845,B
+". Consider the weights and values of items listed below. Note that there is only one unit of each item. www.gradeup.co 19 The task is to pick a subset of these items such that their total weight is not more than 11 kgs and their total value is maximized. Moreover, no item may be split. The total value of items picked by an optimal algorithm is denoted by . Vopt A greedy algorithm sorts the items by their value-to-weight ratios in descending order and packs them greedily, starting from the first item in the ordered list. The total value of items picked by the greedy algorithm is denoted by greedy V , The value of V V opt greedy − is ________.",12,16,10,30,B
+"Consider a simple communication system where multiple nodes are connected by a shared broadcast medium (like Ethernet or wireless). The nodes in the system use the following carrier-sense based medium access protocol. A node that receives a packet to transmit will carrier-sense the medium for 5 units of time. If the node does not detect any other transmission in this duration, it starts transmitting its packet in the next time unit. If the node detects another transmission, it waits until this other transmission finishes, and then begins to carrier-sense for 5 time units again. Once they start to transmit, nodes do not perform any collision detection and continue transmission even if a collision occurs. All transmissions last for 20 units of time. Assume that the transmission signal travels at the speed of 10 meters per unit time in the medium. Assume that the system has two nodes P and Q, located at a distance d meters from each other. P starts transmitting a packet at time t = 0 after successfully completing its carrier-sense phase. Node Q has a packet to transmit at time t = 0 and begins to carrier-sense the medium. The maximum distance d (in meters, rounded to the closest integer) that allows Q to successfully avoid a collision between its proposed transmission and P’s ongoing transmission is __________.",100,50,60,56,B
+"Let G be a simple undirected graph. Let TD be a depth first search tree of G. Let TB be a breadth first search tree of G. Consider the following statements: I. No edge of G is a cross edge with respect to . TD (A cross edge is G is between two nodes neither of which is an ancestor of the other in TD ). II. For every edge (u, v) of G, if u is at depth i and v is at depth j in , TB then (i j − =) 1. Which of the statements above must necessarily be true?",I only,II only,Both I and II,Neither I nor II,D
+"Consider the first-order logic sentence s t u v w x y s t u v w x y ( , , , , , , ) where  (s t u v w x y , , , , , , ) is a quantifier-free-order logic formula using only predicate symbols and possibly equality, but no function symbols. Suppose φ has a model with a universe containing 7 elements. Which one of the following statements is necessarily true",There exists at least one model of φ with universe of size less than or equal to 3.,There exists no model of φ with universe of size less than or equal to 3.,There exists no model of φ with universe of size greater than 7.,Every model of φ has a universe of size equal to 7,B
+"Consider the following C program: #include void fun 1 (char *s1, char *s2) { char *tmp; tmp = s1; s1 = s2; s2 = tmp; } www.gradeup.co 21 Void fun2 (char **s1, char **s2) { char *tmp; tmp = s1; s1 = s2; s2 = tmp; } int main () { char *str1 = “Hi”, *str2 = “Bye”; fun1 (str1, str2); printf(“%s %s”, str1, str2); fun2 (&str1, &str2); printf(“%s %s”, str1, str2); return 0; } The output of the program above i",Hi Bye Bye H,Hi Bye Hi Bye,Bye Hi Hi Bye,Bye Hi Bye Hi,A
+"The number of possible min-heaps containing each value from {1, 2, 3, 4, 5, 6, 7} exactly once is _______.",80,30,50,10,A
+"Let N be the set of natural numbers. Consider the following sets: P. Set of rational numbers (positive and negative). Q. Set of functions from {0, 1} to N. R. Set of functions from N to {0, 1}. S. Set of finite subsets of N. Which of the sets above are countable?",Q and S only,P and S only,P and R onl,"P, Q and S only",D
+Consider the unsigned 8-bit fixed point binary number representation below : 7 6 5 4 3 2 1 0 b b b b b b b b . Where the position of the binary point is between b3 and 2 b . Assume b7 is the most significant bit. Some of the decimal numbers listed below cannot be represented exactly in the above representation:,31.5,0.875,12.1,3,C
+"Given a language L, define i L as follows:   0 1 . for all 0 i i L L L L i − =  =  The order of a language L is defined as the smallest k such that 1 . k k L L + = Consider the language 1L (over alphabet 0) accepted by the following automaton.",1,2,3,4,C
+"A lexical analyzer uses the following patterns to recognize three tokens 1 2 T T, and T3 over the alphabet {a, b, c}. ( ) ( ) ( ) * 1 * 2 * 3 : ? | : ? | : ? | T a b c a T b a c b T c b a c Note that ‘x?’ means 0 or 1 occurrence of the symbol x. Note also that the analyzer outputs the token that matches the longest possible prefix. If the string bbaacabc is processed by the analyzer, which one of the following is the sequence of tokens it outputs?",T T T 1 2 3,TTT 1 1 3,T T T 2 1 3,TT3 3,D
+"Given below are two statements 1 and 2. and two conclusions I and II.
+Statement 1: All bacteria are microorganisms.
+Statement 2: All pathogens are microorganisms.
+Conclusion I: Some pathogens are bacteria.
+Conclusion II: All pathogens are not bacteria.
+Based oil the above statements and conclusions, which one of the following options is logically
+CORRECT?
+Options
+", Only conclusion I correct, Only conclusion II is collect,Either conclusion I or II is correct., Neither conclusion I nor II is correct,D
+"The Ratio of boys to girls in class 7 to 3, among the options below, An acceptable value for total number of students in class is :",21,73,37,50,D
+"_____ is to surgery as writer is to _____
+Which maintain similar logic relation.
+","Doctor, Book"," Hospital, Library","Medicine, grammar","Plan, outline",A
+"Detail of prices of two item P and Q are presented in the above table. The ratio of cost of item P to cost of item Q is 3 : 4. Discount is calculated as difference between marked and selling price. The profit percentage is calculated as ratio of difference between selling price and cost, to the cost price.
+Profit % = Selling Price − Cost Price ×100/coast price
+The discount on Q, as a % marked price is ______.
+ 
+  
+",25,12.5,10,25,C
+"We have 2 rectangular sheets of paper, M and N, of Dimension 6 cm×1 cm each. Sheet M is rolled to form an open cylinder by bringing short edges of the sheet together. Sheet and N is cut into equal square patches and assembled to form largest possible closed cube. Assuming the ends of the cylinder are closed, ratio of the volume of the cylinder to that of the cube is _______."," 9 / π
+", 3π,"π/2
+","(D) 3/π
+",A
+"
+
+
+
+A circular sheet of paper is folded along the lines in the directions shown. The paper, after being punched in the final folded state as shown and unfolded in the reverse order of folding, will look like________.",21,73,37,50,A
+"A polygon is convex if. for every pair of points, P and Q belonging to the polygon, the line segment PQ
+lies completely inside or on the polygon. 
+Which one of the following is NOT a convex polygon?
+",25,12.5,10,25,C
+"Some people suggest Anti Obesity Measures (AOM) such as displaying calorie information in restaurant menus. Such measures sidestep addressing the core problems that cause obesity, poverty and income inequality.Which of the following statements summarize this page",AOM addressing the core problem and are likely to succeed,"The Proposed AOM are addressing the core problem that causes obesity.
+
+", AOM addressing the problem superficially,"If Obesity reduces, poverty will naturally reduce, since obesity causes poverty",C
+"Consider the following sentences:
+(i) Everybody in the class is prepared for the exam.
+(ii) Babu invited Danish to his home because he enjoys playing chess
+Which of the following is the CORRECT observation about the above two sentences?
+", (i) is grammatically incorrect and (ii) is unambiguous,(i) is grammatically correct and (ii) is unambiguous,"(i) is grammatically correct and (ii) is ambiguous
+
+",(i) is grammatically incorrect and (ii) is ambiguous,C
+There are five bags each containing identical sets of ten distinct chocolates. One chocolate is. picked from each bag. The probability that at least two chocolates are identical is___________. Options :,0.8125,0.6976,0.3024,0.4235,B
+"Consider the following sentences: (i)
+Everybody in the class is prepared for the exam.
+(ii)
+Babu invited Danish to his home because he enjoys playing chess.
+Which of the following is the CORRECT observation about the above two
+sentences?
+",(i) is grammatically correct and (ii) is unambiguous,i) is grammatically incorrect and (ii) is unambiguous,(i) is grammatically correct and (ii) is ambiguous,(i) is grammatically incorrect and (ii) is ambiguous,B
+"Let G be a group of order 6, arid H be a subgroup of G such that 1 following options is correct?","Both G and H may not be cyclic.
+
+",Both G and H are always cyclic.,"G is always cyclic, but H may not be cyclic.","G may not be cyclic, but H is always cyclic.
+
+",D
+"There are five bags each containing identical sets of ten distinct chocolates. One
+chocolate is picked from each bag.The probability that at least two chocolates are identical is ___________
+",0.3024,0.4235,0.6976,0.8125,B
+"Given below are two statements 1 and 2, and two conclusions I and II.Statement 1: All bacteria are microorganisms.Statement 2: All pathogens are microorganisms.Conclusion I: Some pathogens are bacteria.Conclusion II: All pathogens are not bacteria.Based on the above statements and conclusions, which one of the following
+options is logically CORRECT?
+",Only conclusion I is correct,Only conclusion II is correct,Either conclusion I or II is correct.,Neither conclusion I nor II is correct.,A
+"Some people suggest anti-obesity measures (AOM) such as displaying calorie information in restaurant menus.Such measures sidestep addressing the core
+problems that cause obesity: poverty and income inequality.Which one of the following statements summarizes the passage?
+",The proposed AOM addresses the core problems that cause obesity.,"If obesity reduces, poverty will naturally reduce, since obesity causes poverty.",AOM are addressing the core problems and are likely to succeed., AOM are addressing the problem superficially,C
